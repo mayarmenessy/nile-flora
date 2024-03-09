@@ -1,0 +1,177 @@
+.frame2.frame2 {
+  left: 1054px;
+  top: 27px;
+  outline: solid 2px #351111;
+}
+.clock.clock {
+  background-image:/* webpackIgnore: true */ url('/assets/clock2.jpg');
+}
+.frame3.frame3 {
+  left: 4px;
+  top: 27px;
+  outline: solid 2px #351111;
+}
+.root {
+  position: relative;
+  width: 1280px;
+  height: 935px;
+  align-items: flex-start;
+  background-image: linear-gradient(178.5deg, #b5ccf9ff 0%, #feffffff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.frame1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1280px;
+  height: 267px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.image1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 267px;
+  background-image:/* webpackIgnore: true */ url('/assets/image1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.welcomeToNileFlora {
+  color: #fefcfc;
+  font-size: 50px;
+  font-weight: 800;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.09em;
+  position: absolute;
+  left: 326px;
+  top: 103px;
+  width: min-content;
+  height: min-content;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contactUs {
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Inika, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+  position: absolute;
+  left: 15px;
+  top: 27px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 347px;
+  width: 1270px;
+  height: 397px;
+  border-radius: 70px;
+  background-color: #fefcfc;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.ourAimIsToMitigateTheEnvironme {
+  color: #000;
+  font-size: 37px;
+  font-weight: 300;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+  position: absolute;
+  left: -7px;
+  top: 496px;
+  width: 1280px;
+  height: 290px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ourFeedYourSolutionToAGreenerH {
+  position: absolute;
+  left: 28px;
+  top: 404px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  background-image: linear-gradient(180deg, #6e3cffff 0%, #c88bc200 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 38px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+}
+.textBlock2 {
+  margin-top: 0;
+  background-image: linear-gradient(180deg, #6e3cffff 0%, #c88bc200 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 38px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+}
+.deWatermark1 {
+  position: absolute;
+  left: 0;
+  top: 842px;
+  width: 184px;
+  height: 93px;
+  background-image:/* webpackIgnore: true */ url('/assets/deWatermark1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.spaFlower {
+  position: absolute;
+  left: 1142px;
+  top: 854px;
+  width: 54px;
+  height: 57px;
+  background-image:/* webpackIgnore: true */ url('/assets/spaFlower.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.spaFlower2 {
+  position: absolute;
+  left: 1203px;
+  top: 854px;
+  width: 54px;
+  height: 57px;
+  background-image:/* webpackIgnore: true */ url('/assets/spaFlower2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

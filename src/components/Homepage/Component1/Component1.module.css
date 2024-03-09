@@ -1,0 +1,47 @@
+.frame32.frame32 {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.frame3.frame3.frame3 {
+  outline: solid 2px #351111;
+}
+.root {
+  position: absolute;
+  left: 440px;
+  top: 818px;
+  width: 442px;
+  height: 83px;
+  align-items: flex-start;
+}
+.knowledgeSharing {
+  position: absolute;
+  left: 7.0136%;
+  right: 78.733%;
+  top: 22.8916%;
+  bottom: 21.6867%;
+  background-image:/* webpackIgnore: true */ url('/assets/knowledgeSharing.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.knowMore {
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Inika, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.07em;
+  position: absolute;
+  left: 26.2443%;
+  right: 26.4706%;
+  top: 22.8916%;
+  bottom: 21.6867%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

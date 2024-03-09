@@ -1,0 +1,16 @@
+.frame3.frame3 {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.root {
+  position: absolute;
+  left: -61px;
+  top: 333px;
+  width: 442px;
+  height: 83px;
+  align-items: flex-start;
+}
